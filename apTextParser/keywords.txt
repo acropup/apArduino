@@ -1,0 +1,13 @@
+# Syntax Coloring Map for Arduino IDE
+
+# Methods and Functions (KEYWORD2)
+is_whitespace         KEYWORD2
+is_whitespace_or_null KEYWORD2
+read_int              KEYWORD2
+eat_int               KEYWORD2
+eat_char              KEYWORD2
+skip_until_whitespace KEYWORD2
+skip_whitespace       KEYWORD2
+cmdlen                KEYWORD2
+cmdnlen               KEYWORD2
+report_error          KEYWORD2

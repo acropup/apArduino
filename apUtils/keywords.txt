@@ -1,6 +1,6 @@
 # Syntax Coloring Map for Arduino IDE
 
 # Methods and Functions (KEYWORD2)
-ARRAY_LENGTH  KEYWORD2
-LCASE         KEYWORD2
-wrap0         KEYWORD2
+ARRAY_LENGTH	KEYWORD2
+LCASE	KEYWORD2
+wrap0	KEYWORD2
